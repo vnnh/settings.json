@@ -24,6 +24,7 @@
 	"[rust]": {
 		"editor.defaultFormatter": "rust-lang.rust"
 	},
+	"typescript.preferences.importModuleSpecifier": "non-relative",
 
 	"terminal.integrated.profiles.windows": {
 		"PowerShell": {
