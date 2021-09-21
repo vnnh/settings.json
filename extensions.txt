@@ -12,3 +12,5 @@ streetsidesoftware.code-spell-checker
 tamasfe.even-better-toml
 usernamehw.errorlens
 zhuangtongfa.material-theme
+shd101wyy.markdown-preview-enhanced
+albert.tabout
