@@ -1,5 +1,4 @@
 bradlc.vscode-tailwindcss
-coenraads.bracket-pair-colorizer
 dbaeumer.vscode-eslint
 eamodio.gitlens
 enkia.tokyo-night
