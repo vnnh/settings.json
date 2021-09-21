@@ -1,0 +1,15 @@
+bradlc.vscode-tailwindcss
+coenraads.bracket-pair-colorizer
+dbaeumer.vscode-eslint
+eamodio.gitlens
+enkia.tokyo-night
+esbenp.prettier-vscode
+johnpapa.vscode-peacock
+ms-vscode-remote.remote-wsl
+pkief.material-icon-theme
+pkief.material-product-icons
+rust-lang.rust
+streetsidesoftware.code-spell-checker
+tamasfe.even-better-toml
+usernamehw.errorlens
+zhuangtongfa.material-theme
