@@ -48,7 +48,6 @@ module.exports = {
 		"@typescript-eslint/no-require-imports": "error",
 		"@typescript-eslint/no-unused-expressions": "warn",
 		"no-undef-init": "error",
-		"no-console": "error",
 		"prefer-const": 0,
 		"@typescript-eslint/no-array-constructor": 0,
 	},
